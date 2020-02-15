@@ -1,0 +1,12 @@
+./.DS_Store
+./Ex2.ipynb
+./Functions.py
+./irisData.csv
+./test.csv
+./test.txt
+./utils.py
+./.ipynb_checkpoints/.DS_Store
+./.ipynb_checkpoints/Ex2-checkpoint.ipynb
+./__pycache__/Functions.cpython-37.pyc
+./__pycache__/utils.cpython-37.pyc
+Martin@Frederiksen
